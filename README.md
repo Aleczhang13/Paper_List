@@ -5,55 +5,21 @@
 - **MAML-based**
     - (**MAML**) Chelsea Finn, Pieter Abbeel, et al. "**Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**." (**2017**). [[arXiv:1703.03400](https://arxiv.org/abs/1703.03400)] :star:
     - (**Reptile**)Alex Nichol, Joshua Achiam, et al. "**On First-Order Meta-Learning Algorithms**."(**2017**). [[arXiv:1803.02999](https://arxiv.org/abs/1803.02999)] :star:
-
 - **Metric-base**
     - (**Siamese Network**) Gregory Koch, et al. "**Siamese Neural Networks for One-shot Image Recognition**." (**2016**) [[arXiv](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] 
     - (**Prototypical Networks**) Jake Snell, Kevin Swersky, et al. "**Prototypical Networks for Few-shot Learning**."  (**2017**). [[arXiv:1703.0517](https://arxiv.org/abs/1703.05175)]
     - (**Match Networks**) Oriol Vinyals, Charles Blundell, et al. "**Matching Networks for One Shot Learning**." (**2017**)[[arXiv:1606.04080](https://arxiv.org/abs/1606.04080)]
-    - (**Relation Network**) Flood Sung, Yongxin Yang, et al."**Learning to Compare: Relation Network for Few-Shot Learning**" (**CVPR 2018**)[[arXiv:1711.06025](https://arxiv.org/abs/1711.06025)]
-    
+    - (**Relation Network**) Flood Sung, Yongxin Yang, et al."**Learning to Compare: Relation Network for Few-Shot Learning**" (**CVPR 2018**)[[arXiv:1711.06025](https://arxiv.org/abs/1711.06025)]   
 - **Gradient Descent as LSTM**
     - S Ravi, et al. "**OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING**",(**2016**).[[openreview](https://openreview.net/pdf?id=rJY0-Kcll)]
     - Marcin Andrychowicz, Misha Denil, et al. "**learning to learn by gradient by gradient**"(**2017**)[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
 
+## Interpretable machine learning
+- (**L2X**) "**Learning to Explain: An Information-Theoretic Perspective on Model Interpretation**." (**ICML 2018**)[[arXiv:1802.07814](https://arxiv.org/abs/1802.07814)]
+- (**VIBI**) Seojin Bang, Pengtao Xie, et al. "**Explaining a black-box using Deep Variational Information Bottleneck Approach**." (**2019**)[[arXiv:1902.06918](https://arxiv.org/abs/1902.06918)]
+
 
 ## Metric learning
-
--  **2048 Like Games**
-    - Szubert, Marcin, and Wojciech Jaśkowski. "**Temporal difference learning of n-tuple networks for the game 2048**." Computational Intelligence and Games (CIG), IEEE Conference on. IEEE, (**2014**).
-    - Wu, I-Chen, et al. "**Multi-stage temporal difference learning for 2048**." Technologies and Applications of Artificial Intelligence. Springer, Cham, (**2014**).
-    - Yeh, Kun-Hao, et al. "**Multi-stage temporal difference learning for 2048-like games**." IEEE Transactions on Computational Intelligence and AI in Games (**2016**).
-    - Jaskowski, Wojciech. "**Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping**." IEEE Transactions on Computational Intelligence and AI in Games (**2017**). :star:
-- **MCTS**
-    - (**UCS**)Brügmann, Bernd. "**Monte carlo go**". Vol. 44. Syracuse, NY: Technical report, Physics Department, Syracuse University, (**1993**).
-    - (**UCB**)Auer, Peter, Nicolo Cesa-Bianchi, and Paul Fischer. "**Finite-time analysis of the multiarmed bandit problem.**" Machine learning 47.2-3 (**2002**): 235-256.
-    - (**UCT**)Kocsis, Levente, and Csaba Szepesvári. "**Bandit based monte-carlo planning**." European conference on machine learning. Springer, Berlin, Heidelberg, **2006**.
-    - (**MCTS**)Coulom, Rémi. "**Efficient selectivity and backup operators in Monte-Carlo tree search**." International conference on computers and games. Springer, Berlin, Heidelberg, **2006**.    
-    - (**RAVE**)Gelly, Sylvain, and David Silver. "**Monte-Carlo tree search and rapid action value estimation in computer Go**." Artificial Intelligence 175.11 (**2011**): 1856-1875.
-    - Gelly and David. "**Combining online and offline knowledge in UCT**." ICML 2007.
-        - ICML 2017: Test of Time Award
-    - Chaslot, Guillaume MJ-B. "**Parallel monte-carlo tree search**." International Conference on Computers and Games. Springer, Berlin, Heidelberg, (**2008**).
-    - Segal, Richard B. "**On the scalability of parallel UCT**." International Conference on Computers and Games. Springer, Berlin, Heidelberg, (**2010**).
-    - Browne, Cameron B., et al. "**A survey of monte carlo tree search methods**." IEEE Transactions on Computational Intelligence and AI in games 4.1 (**2012**): 1-43.
-- **AlphaGo** 
-    -  Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search**." [Nature 529.7587](https://www.nature.com/articles/nature16961) (**2016**): 484-489. :star:
-        -  APV-MCTS
-    -  Silver, David, et al. "**Mastering the game of go without human knowledge**." [Nature 550.7676](https://www.nature.com/articles/nature24270) (**2017**): 354. :star:
-    -  Silver, David, et al. "**Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**."  (**2017**). [[arXiv:1712.01815](https://arxiv.org/abs/1712.01815)] :star:
-    -  Silver, David, et al. "**A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**." [Science 362.6419](http://science.sciencemag.org/content/362/6419/1140) (**2018**): 1140-1144.
-- **More**
-    - Silver, David, Richard S. Sutton, and Martin Müller. "**Temporal-difference search in computer Go**." Machine learning 87.2 (**2012**): 183-219.
-    - Lai, Matthew. "**Giraffe: Using deep reinforcement learning to play chess**." (**2015**). [[arXiv:1509.01549](https://arxiv.org/abs/1509.01549)] 
-    -  Vinyals, Oriol, et al. "**StarCraft II: a new challenge for reinforcement learning**." (**2017**). [[arXiv:1708.04782](https://arxiv.org/abs/1708.04782)]    
-    -  Maddison, Chris J., et al. "**Move evaluation in go using deep convolutional neural networks**." (**2014**). [[arXiv:1412.6564](https://arxiv.org/abs/1412.6564)]
-    -  Soeda, Shunsuke, Tomoyuki Kaneko. "**Dual lambda search and shogi endgames**." Advances in Computer Games. Springer, Berlin, Heidelberg, (**2005**).
-    -  (**Darkforest**)Tian, Yuandong, and Yan Zhu. "**Better computer go player with neural network and long-term prediction**." arXiv:1511.06410 (**2015**).
-    -  Cazenave, Tristan. "**Residual networks for computer Go.**" _IEEE Transactions on Games_ 10.1 (**2018**): 107-110.
-    -  Gao, Chao, Martin Müller, and Ryan Hayward. "**Three-Head Neural Network Architecture for Monte Carlo Tree Search**." IJCAI. **(2018)**.
-    -  (**ELF**)Tian, Yuandong, et al. "**Elf: An extensive, lightweight and flexible research platform for real-time strategy games**." Advances in Neural Information Processing Systems. (**2017**).
-    - (**ELF2**)Tian, Yuandong, et al. "**ELF OpenGo: An Analysis and Open Reimplementation of AlphaZero**." arXiv:1902.04522 (**2019**).
-
-
 
 ## NLP
 
