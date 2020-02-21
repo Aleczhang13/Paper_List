@@ -3,9 +3,8 @@
 ## Meta learning
 
 - **MAML-based**
-    - (**MAML**) 
-        - Chelsea Finn, Pieter Abbeel, et al. "**Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**." (**2017**). [arXiv:1703.03400](https://arxiv.org/abs/1703.03400)] 
-        - Mnih, Volodymyr, et al. "**Human-level control through deep reinforcement learning**."(**2015**). [[Nature 518.7540](https://www.nature.com/articles/nature14236)] :star:
+    - (**MAML**) Chelsea Finn, Pieter Abbeel, et al. "**Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**." (**2017**). [[arXiv:1703.03400](https://arxiv.org/abs/1703.03400)] :star:
+    - (**Reptile**)Alex Nichol, Joshua Achiam, et al. "**On First-Order Meta-Learning Algorithms**."(**2015**). [[arXiv:1803.02999](https://arxiv.org/abs/1803.02999)] :star:
 
 - **Metric-base**
     - (**UNREAL**) Jaderberg, Max, et al. "**Reinforcement learning with unsupervised auxiliary tasks**." (**2016**). [[arXiv:1611.05397](https://arxiv.org/abs/1611.05397)] 
