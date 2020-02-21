@@ -15,7 +15,7 @@
     - Marcin Andrychowicz, Misha Denil, et al. "**learning to learn by gradient by gradient**"(**2017**)[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
 
 ## Interpretable machine learning
-- (**L2X**) "**Learning to Explain: An Information-Theoretic Perspective on Model Interpretation**." (**ICML 2018**)[[arXiv:1802.07814](https://arxiv.org/abs/1802.07814)]
+- (**L2X**) Jianbo Chen, Le Song, et al. "**Learning to Explain: An Information-Theoretic Perspective on Model Interpretation**." (**ICML 2018**)[[arXiv:1802.07814](https://arxiv.org/abs/1802.07814)]
 - (**VIBI**) Seojin Bang, Pengtao Xie, et al. "**Explaining a black-box using Deep Variational Information Bottleneck Approach**." (**2019**)[[arXiv:1902.06918](https://arxiv.org/abs/1902.06918)]
 
 
