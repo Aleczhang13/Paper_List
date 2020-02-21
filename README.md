@@ -14,7 +14,7 @@
     
 - **Gradient Descent as LSTM**
     - S Ravi, et al. "**OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING**",(**2016**).[[openreview](https://openreview.net/pdf?id=rJY0-Kcll)]
-    - "**learning to learn by gradient by gradient**"(**2017**)[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
+    - Marcin Andrychowicz, Misha Denil, et al. "**learning to learn by gradient by gradient**"(**2017**)[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
 
 
 ## Metric learning
