@@ -7,13 +7,13 @@
     - (**Reptile**)Alex Nichol, Joshua Achiam, et al. "**On First-Order Meta-Learning Algorithms**."(**2017**). [[arXiv:1803.02999](https://arxiv.org/abs/1803.02999)] :star:
 
 - **Metric-base**
-    - (**UNREAL**) Jaderberg, Max, et al. "**Reinforcement learning with unsupervised auxiliary tasks**." (**2016**). [[arXiv:1611.05397](https://arxiv.org/abs/1611.05397)] 
-    - (**TRPO**) Schulman, John, et al. "**Trust region policy optimization**." Proceedings of the 32nd International Conference on Machine Learning (ICML-15). (**2015**). [[arXiv:1502.05477](https://arxiv.org/abs/1502.05477)]
+    - (**Siamese Network**) Gregory Koch, et al. "**https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf**."  [[arXiv](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] 
+    - (**Prototypical Networks**) Jake Snell, Kevin Swersky, et al. "**Prototypical Networks for Few-shot Learning**."  (**2015**). [[arXiv:1703.0517](https://arxiv.org/abs/1703.05175)]
     
 - **Gradient Descent as LSTM**
     - S Ravi, et al. "**OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING**",(**2016**).[[openreview](https://openreview.net/pdf?id=rJY0-Kcll)]
     - "**learning to learn by gradient by gradient**"(**2017**)[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
-- ****
+
 
 ## Metric learning
 
@@ -51,15 +51,15 @@
     -  (**ELF**)Tian, Yuandong, et al. "**Elf: An extensive, lightweight and flexible research platform for real-time strategy games**." Advances in Neural Information Processing Systems. (**2017**).
     - (**ELF2**)Tian, Yuandong, et al. "**ELF OpenGo: An Analysis and Open Reimplementation of AlphaZero**." arXiv:1902.04522 (**2019**).
 
-- ****
+
 
 ## NLP
 
-- ****
+
 
 ## tips of trick
 
-- ****
+
 ## Convolutional Neural Network
 
 - (**LeNet**) LeCun, Yann, et al. "**Gradient-based learning applied to document recognition**." Proceedings of the IEEE 86.11 (**1998**).
@@ -81,7 +81,7 @@
 - (**CondenseNet**) Huang, Gao, et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (**2017**). [[arXiv:1711.09224](https://arxiv.org/abs/1711.09224)] 
 - (**GN**) Yuxin Wu, Kaiming He. "**Group Normalization**." (**2018**). [[arXiv:1803.08494](https://arxiv.org/abs/1803.08494)]
 
-- ****
+
 ## Optimizers
 
 - Kingma, Diederik P., and Jimmy Ba. "**Adam: A method for stochastic optimization.**" arXiv preprint (2014). [[arXiv:1412.6980](https://arxiv.org/abs/1412.6980)]
@@ -93,7 +93,7 @@
 - Huang, Gao, et al. "**Snapshot ensembles: Train 1, get M for free**." arXiv preprint (**2017**). [[arXiv:1704.00109](https://arxiv.org/abs/1704.00109)]
 - Jaderberg, Max, et al. "**Population based training of neural networks**." arXiv preprint (**2017**). [[arXiv:1711.09846](https://arxiv.org/abs/1711.09846)] 
 
-- ****
+
 ## Generative Adversarial Network
 
 - Goodfellow, Ian, et al. "**Generative adversarial nets**." Advances in neural information processing systems. (**2014**). [[arXiv:1406.2661](https://arxiv.org/abs/1406.2661)]
@@ -103,7 +103,7 @@
 - Shrivastava, Ashish, et al. "**Learning from simulated and unsupervised images through adversarial training**."(**2016**). [[arXiv:1612.07828](https://arxiv.org/abs/1612.07828)]
 - Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "**Wasserstein gan**." (**2017**). [[arXiv:1701.07875](https://arxiv.org/abs/1701.07875)]
 
-- ****
+
 ## Others 
 
 - Li, Yuxi. "**Deep reinforcement learning: An overview**." (**2017**). [arXiv:1701.07274](https://arxiv.org/abs/1701.07274)
