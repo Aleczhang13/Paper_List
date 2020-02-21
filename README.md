@@ -9,18 +9,10 @@
 - **Metric-base**
     - (**UNREAL**) Jaderberg, Max, et al. "**Reinforcement learning with unsupervised auxiliary tasks**." (**2016**). [[arXiv:1611.05397](https://arxiv.org/abs/1611.05397)] 
     - (**TRPO**) Schulman, John, et al. "**Trust region policy optimization**." Proceedings of the 32nd International Conference on Machine Learning (ICML-15). (**2015**). [[arXiv:1502.05477](https://arxiv.org/abs/1502.05477)]
-    - (**DPPO**) Schulman, John, et al. "**Proximal policy optimization algorithms**." (**2017**). [[arXiv:1707.06347](https://arxiv.org/abs/1707.06347)]
-    - Heess, Nicolas, et al. "**Emergence of locomotion behaviours in rich environments**." (**2017**). [[arXiv:1707.02286](https://arxiv.org/abs/1707.02286)]
-    - Hessel, Matteo, et al. "**Rainbow: Combining Improvements in Deep Reinforcement Learning**." (**2017**). [[arXiv:1710.02298](https://arxiv.org/abs/1710.02298)]
-    - Andrychowicz, Marcin, et al. "**Learning to learn by gradient descent by gradient descent**." Advances in Neural Information Processing Systems. (**2016**). [[arXiv:1606.04474](https://arxiv.org/abs/1606.04474)]
-    - (**GAIL**)Ho, Jonathan, and Stefano Ermon. "**Generative adversarial imitation learning**." Advances in Neural Information Processing Systems. (**2016**). [[arXiv:1606.03476](https://arxiv.org/abs/1606.03476)]
-    - (**InfoGAIL**)Li, Yunzhu, Jiaming Song, and Stefano Ermon. "**InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations**." Advances in Neural Information Processing Systems. (**2017**).  [[arXiv:1703.08840](https://arxiv.org/abs/1703.08840)]
-    - Lample, Guillaume, and Devendra Singh Chaplot. "**Playing FPS Games with Deep Reinforcement Learning**." AAAI. (**2017**). [[arXiv:1609.05521](https://arxiv.org/abs/1609.05521)]
-    - O'Donoghue, Brendan, et al. "**Combining policy gradient and Q-learning**." (**2016**).  [[arXiv:1611.01626](https://arxiv.org/abs/1611.01626)]
-    - Merel, Josh, et al. "**Learning human behaviors from motion capture by adversarial imitation**."  (**2017**). [[arXiv:1707.02201](https://arxiv.org/abs/1707.02201)]
-    - Liu, YuXuan, et al. "**Imitation from observation: Learning to imitate behaviors from raw video via context translation**." (**2017**). [[arXiv:1707.03374](https://arxiv.org/abs/1707.03374)]
-    - Hester, Todd, et al. "**Deep Q-learning from Demonstrations**." Proceedings of the Conference on Artificial Intelligence (AAAI). (**2018**). [[arXiv:1704.03732](https://arxiv.org/abs/1704.03732)]
-
+    
+- **Gradient Descent as LSTM**
+    - S Ravi, et al. "**OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING**",(**2016**).[[openreview](https://openreview.net/pdf?id=rJY0-Kcll)]
+    - "**learning to learn by gradient by gradient**"[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
 - ****
 
 ## Metric learning
