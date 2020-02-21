@@ -4,7 +4,7 @@
 
 - **MAML-based**
     - (**MAML**) Chelsea Finn, Pieter Abbeel, et al. "**Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**." (**2017**). [[arXiv:1703.03400](https://arxiv.org/abs/1703.03400)] :star:
-    - (**Reptile**)Alex Nichol, Joshua Achiam, et al. "**On First-Order Meta-Learning Algorithms**."(**2015**). [[arXiv:1803.02999](https://arxiv.org/abs/1803.02999)] :star:
+    - (**Reptile**)Alex Nichol, Joshua Achiam, et al. "**On First-Order Meta-Learning Algorithms**."(**2017**). [[arXiv:1803.02999](https://arxiv.org/abs/1803.02999)] :star:
 
 - **Metric-base**
     - (**UNREAL**) Jaderberg, Max, et al. "**Reinforcement learning with unsupervised auxiliary tasks**." (**2016**). [[arXiv:1611.05397](https://arxiv.org/abs/1611.05397)] 
@@ -12,7 +12,7 @@
     
 - **Gradient Descent as LSTM**
     - S Ravi, et al. "**OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING**",(**2016**).[[openreview](https://openreview.net/pdf?id=rJY0-Kcll)]
-    - "**learning to learn by gradient by gradient**"[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
+    - "**learning to learn by gradient by gradient**"(**2017**)[[NIPS 2017](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)]
 - ****
 
 ## Metric learning
