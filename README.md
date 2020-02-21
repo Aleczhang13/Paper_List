@@ -9,7 +9,7 @@
 - **Metric-base**
     - (**Siamese Network**) Gregory Koch, et al. "**https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf**."  [[arXiv](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] 
     - (**Prototypical Networks**) Jake Snell, Kevin Swersky, et al. "**Prototypical Networks for Few-shot Learning**."  (**2017**). [[arXiv:1703.0517](https://arxiv.org/abs/1703.05175)]
-    - (**Match Networks**) "**Matching Networks for One Shot Learning**." (**2017**)[[arXiv:1606.04080](https://arxiv.org/abs/1606.04080)]
+    - (**Match Networks**) Oriol Vinyals, Charles Blundell, et al. "**Matching Networks for One Shot Learning**." (**2017**)[[arXiv:1606.04080](https://arxiv.org/abs/1606.04080)]
     - (**Relation Network**) Flood Sung, Yongxin Yang, et al."**Learning to Compare: Relation Network for Few-Shot Learning**" (**CVPR 2018**)[[arXiv:1711.06025](https://arxiv.org/abs/1711.06025)]
     
 - **Gradient Descent as LSTM**
