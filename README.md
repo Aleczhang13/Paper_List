@@ -22,6 +22,8 @@
 ## Metric learning
 
 ## NLP
+- Text Generation
+(**tips about text generation**)https://cs.stanford.edu/~zxie/textgen.pdf
 
 
 
@@ -50,37 +52,7 @@
 - (**GN**) Yuxin Wu, Kaiming He. "**Group Normalization**." (**2018**). [[arXiv:1803.08494](https://arxiv.org/abs/1803.08494)]
 
 
-## Optimizers
-
-- Kingma, Diederik P., and Jimmy Ba. "**Adam: A method for stochastic optimization.**" arXiv preprint (2014). [[arXiv:1412.6980](https://arxiv.org/abs/1412.6980)]
-- Ruder, Sebastian. "**An overview of gradient descent optimization algorithms.**" arXiv preprint (2016). [[arXiv:1609.04747](https://arxiv.org/abs/1609.04747)]
-- Keskar, Nitish Shirish, and Richard Socher. "**Improving Generalization Performance by Switching from Adam to SGD.**" arXiv preprint (2017). [[arXiv:1712.07628](https://arxiv.org/abs/1712.07628)]
-- Loshchilov, Ilya, and Frank Hutter. "**SGDR: stochastic gradient descent with restarts**." arXiv preprint (2016). [[arXiv:1608.03983](https://arxiv.org/abs/1608.03983)] :star:
-- Smith, Leslie N. "**Cyclical learning rates for training neural networks.**" Applications of Computer Vision (WACV), 2017 IEEE Winter Conference on. IEEE, 2017. [[arXiv:1506.01186](https://arxiv.org/abs/1506.01186)]
-- Gastaldi, Xavier. "**Shake-shake regularization.**" arXiv preprint (**2017**). [[arXiv:1705.07485](https://arxiv.org/abs/1705.07485)]
-- Huang, Gao, et al. "**Snapshot ensembles: Train 1, get M for free**." arXiv preprint (**2017**). [[arXiv:1704.00109](https://arxiv.org/abs/1704.00109)]
-- Jaderberg, Max, et al. "**Population based training of neural networks**." arXiv preprint (**2017**). [[arXiv:1711.09846](https://arxiv.org/abs/1711.09846)] 
 
 
-## Generative Adversarial Network
-
-- Goodfellow, Ian, et al. "**Generative adversarial nets**." Advances in neural information processing systems. (**2014**). [[arXiv:1406.2661](https://arxiv.org/abs/1406.2661)]
-- Mirza, Mehdi, and Simon Osindero. "**Conditional generative adversarial nets**." (**2014**). [[arXiv:1411.1784](https://arxiv.org/abs/1411.1784)]
-- Radford, Alec, Luke Metz, and Soumith Chintala. "**Unsupervised representation learning with deep convolutional generative adversarial networks**." (**2015**). [[arXiv:1511.06434](https://arxiv.org/abs/1511.06434)]
-- Reed, Scott, et al. "**Generative adversarial text to image synthesis**." (**2016**). [[arXiv:1605.05396](https://arxiv.org/abs/1605.05396)]
-- Shrivastava, Ashish, et al. "**Learning from simulated and unsupervised images through adversarial training**."(**2016**). [[arXiv:1612.07828](https://arxiv.org/abs/1612.07828)]
-- Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "**Wasserstein gan**." (**2017**). [[arXiv:1701.07875](https://arxiv.org/abs/1701.07875)]
-
-
-## Others 
-
-- Li, Yuxi. "**Deep reinforcement learning: An overview**." (**2017**). [arXiv:1701.07274](https://arxiv.org/abs/1701.07274)
-- [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
-- [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
-- [BIGBALLON/cifar-10-cnn](https://github.com/BIGBALLON/cifar-10-cnn)
-- [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-- [openai/baselines](https://github.com/openai/baselines)
-- [rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning)
-- [Theory of Computer Games](http://www.iis.sinica.edu.tw/~tshsu/tcg/index.html)
 
 
