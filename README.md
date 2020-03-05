@@ -23,7 +23,7 @@
 
 ## NLP
 - Text Generation
-(**tips about text generation**) “**Neural Text Generation: A Practical Guide**”  https://cs.stanford.edu/~zxie/textgen.pdf
+(**tips about text generation**) “**Neural Text Generation: A Practical Guide**”  (**2018**)[(https://cs.stanford.edu/~zxie/textgen.pdf)]
 
 
 
