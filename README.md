@@ -25,7 +25,7 @@
 - Text Generation
 (**tips about text generation**) “**Neural Text Generation: A Practical Guide**”  (**2018**)[[zxie](https://cs.stanford.edu/~zxie/textgen.pdf)]
 
--Neural Dialogue Generation
+- Neural Dialogue Generation
 "Rethinking Neural Dialogue Generation: A Practical Guide"(**2018**)[[dialoge generation](https://www.researchgate.net/profile/Yahui_Liu4/publication/331233740_Rethinking_Neural_Dialogue_Generation_A_Practical_Guide/links/5c6d96a8a6fdcc404ec17ef3/Rethinking-Neural-Dialogue-Generation-A-Practical-Guide.pdf)]
 
 
